@@ -37,6 +37,13 @@ O projeto foi concebido e implementado com foco na organização do conhecimento
 - Estrutura preparada para expansão de conteúdo e evolução funcional
 - Implementação em stack web moderna com publicação online
 
+## Stack, Integrações e Deploy
+- Solução construída em stack web voltada à organização e consulta de conteúdo
+- Estrutura modular pensada para expansão funcional e evolução da base de conhecimento
+- Camada de apoio com IA aplicada à recuperação contextual da informação
+- Publicação em ambiente web para validação e utilização em contexto real
+- Deploy realizado na Netlify
+
 ## Valor do Projeto
 Este projeto demonstra a capacidade de transformar informação dispersa em uma solução digital estruturada, combinando organização de conteúdo, clareza de navegação e apoio de IA para consulta contextual. O seu valor está menos em “ser um projeto de IA” e mais em tornar o conhecimento mais acessível, utilizável e funcional em contexto real.
 
